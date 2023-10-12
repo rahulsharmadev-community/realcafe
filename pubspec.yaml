@@ -1,0 +1,45 @@
+name: realcafe
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.1
+  equatable: ^2.0.3
+  flutter_bloc: ^8.0.1
+  http: ^0.13.4
+  firebase_core: ^1.12.0
+  firebase_database: ^9.0.6
+  cloud_firestore: ^3.1.7
+  firebase_storage: ^10.2.6
+  firebase_auth: ^3.3.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/json/
+  fonts:
+    - family: Rosarivo
+      fonts:
+        - asset: assets/fonts/Rosarivo-Regular.ttf
+
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway-Regular.ttf
+        - asset: assets/fonts/Raleway-Bold.ttf
+          weight: 900

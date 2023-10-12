@@ -1,0 +1,48 @@
+{
+    "userId": "XXXXXXXXX",
+    "authId": "XXXXXXXX",
+    "name": "Rahul Sharma",
+    "email": "example@gmail.com",
+    "phoneNo": 9876543210,
+    "finishOrders": [
+        {
+            "productId": "dfdf",
+            "title": "xx",
+            "image": "http",
+            "dateTime": "",
+            "quantity": 5,
+            "totalPrice": 555.02
+        }
+    ],
+    "pendingOrders": [
+        {
+            "productId": "dfdf",
+            "title": "xx",
+            "image": "http",
+            "dateTime": "",
+            "quantity": 5,
+            "totalPrice": 555.02
+        }
+    ],
+    "cancelOrders": [
+        {
+            "productId": "dfdf",
+            "title": "xx",
+            "image": "http",
+            "dateTime": "",
+            "quantity": 5,
+            "totalPrice": 555.02
+        }
+    ],
+    "Address": [
+        {
+            "addressId": "dfd",
+            "title": "Maan deep",
+            "phoneNo": 11004241414,
+            "address": "A-451/2, ram nager",
+            "deliveryTime": "7-10 AM",
+            "pincode": 110042,
+            "state": "Delhi"
+        }
+    ]
+}

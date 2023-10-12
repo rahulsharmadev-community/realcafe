@@ -1,0 +1,139 @@
+{
+  "Coffee_Collection": [
+    {
+      "name": "Americano",
+      "price": 150,
+      "category": ["Hot Coffee"],
+      "image": "amaricano.jpg",
+      "rating": 4.5,
+      "info": "Americanos are rich, intense, and distinctive in taste. The strength of the drink is dependent on the number of espresso shots you add. For many, it is the ideal way to indulge in the smoothness of espressos while maintaining the consistency of a drip-brew."
+    },
+    {
+      "name": "Black Coffee",
+      "price": 75,
+      "category": ["Hot Coffee"],
+      "image": "black-coffee.jpg",
+      "rating": 4.0,
+      "info": "Black coffee is the simplest and healthiest coffee type available. The ground coffee beans are steamed by hot water within a drip machine, and that is it. Because it is served as is, the coffee will taste strong, and be at its most bitter."
+    },
+    {
+      "name": "Cappuccino",
+      "price": 200,
+      "category": ["Hot Coffee", "Hot Shake"],
+      "image": "cappuccino.jpg",
+      "rating": 4.6,
+      "info": "Cappuccinos are a fan favorite when visiting coffee shops. This is especially the case because of the latte art decorations that are often drawn into the steamed milk foam."
+    },
+    {
+      "name": "Espresso",
+      "price": 150,
+      "category": ["Hot Coffee"],
+      "image": "Espresso.jpg",
+      "rating": 4.5,
+      "info": "Espresso is not necessarily a type of coffee, but a way to make coffee. The difference is the amount of water used to make espressos versus regularly brewed coffee.\nBecause they are made with a shot of water instead of a liter of water per cup of ground coffee, espressos are basically highly concentrated coffee. Because of this, you can expect espressos to have a more heightened array of flavors compared to your regular cup of coffee."
+    },
+    {
+      "name": "Latte",
+      "price": 210,
+      "category": ["Hot Coffee", "Chocolate", "Hot Shake"],
+      "image": "latte.jpg",
+      "rating": 4.8,
+      "info": "Lattes are among the most popular coffee choices. Anything from sweet to herbal can be added to them, and latte art can be added to complete the drink. Lattes are similar to cappuccinos because they are also made with espresso, steamed milk, and milk foam."
+    },
+    {
+      "name": "Macchiato",
+      "price": 200,
+      "category": ["Hot Coffee", "Chocolate", "Hot Shake"],
+      "image": "black-coffee.jpg",
+      "rating": 4.5,
+      "info": "A fan favorite of coffee drinkers who enjoy the bitterness that naturally comes in coffee. There are two different ways to make this drink: more espresso than milk to make an espresso macchiato, or more milk than espresso to make a latte macchiato."
+    },
+    {
+      "name": "Mocha",
+      "price": 290,
+      "category": ["Hot Coffee", "Chocolate"],
+      "image": "Mocha.jpg",
+      "rating": 4.9,
+      "info": "Mocha, which is actually short for mochaccino, is another popular coffee variation, right up there with a latte, and for a good reason.\n\nIt is a top choice when you want to satisfy your sweet tooth needs. This is another type of espresso beverage, and aptly named for its pleasant combination of sweet chocolate meeting the roasted goodness coffee Mochas are made with the expected shot of espresso and hot milk, but completed with chocolate additions, and whipped cream at the top."
+    },
+    {
+      "name": "Affogato",
+      "price": 190,
+      "category": ["Iced Coffee"],
+      "image": "affogato.jpg",
+      "rating": 4.1,
+      "info": "Affogato technically is not a beverage, but it is still coffee-based. Affogato is actually a dessert that is meant to either be slowly sipped or enjoyed with a spoon. It is typically made with vanilla gelato or ice cream as the primary dessert and completed with a shot of hot espresso."
+    },
+    {
+      "name": "Cold-Brew",
+      "price": 190,
+      "category": ["Iced Coffee"],
+      "image": "Cold-Brewed-Coffee.jpg",
+      "rating": 4.1,
+      "info": "Cold brew coffee is a popular type of coffee all in itself, too. It is also an extremely popular type of coffee.\n\nPut simply; it is ground coffee beans that are steeped in room temperature water for 6 to 36 hours, all depending on how strong you want the brew to be. After it has steeped long enough, it is filtered so you can add cold milk or cream."
+    },
+    {
+      "name": "Frappuccino And Frappe",
+      "price": 200,
+      "category": ["Iced Coffee", "Coffee Shake"],
+      "image": "frappuccino.jpg",
+      "rating": 4.8,
+      "info": "Frappuccinos are often compared to milkshakes, which is understandable. A Frappuccino is basically just an iced cappuccino that was blended into a milkshake."
+    },
+    {
+      "name": "Iced Coffee",
+      "price": 260,
+      "category": ["Iced Coffee", "Coffee Shake"],
+      "image": "Iced_Coffee.jpg",
+      "rating": 4.0,
+      "info": "There is a common belief that iced coffee is just hot coffee that has been refrigerated, and while there may be places where this actually happens, it turns out.\n\nThis is not actually true. Granted, it is okay to turn hot coffee into the cold. For many, that may be the easier means to get a hold of iced coffee. It just is not the official means of making iced coffee. It turns out. Iced coffee has its own brewing method that involves cold or room temperature water."
+    },
+    {
+      "name": "Iced Espresso",
+      "price": 250,
+      "category": ["Iced Coffee", "Coffee Shake"],
+      "image": "icedEspresso.jpg",
+      "rating": 4.0,
+      "info": "Iced espressos are still espressos, so you can expect it to be strong and energize you as expected. Compared to the other colder coffee types, you can expect to get the most caffeine out of this beverage. Much like the other cold coffee types, an iced espresso will taste sweeter, smoother, and less acidic than its hotter counterpart."
+    },
+    {
+      "name": "Iced Latte",
+      "price": 220,
+      "category": ["Iced Coffee", "Coffee Shake"],
+      "image": "lced_lato.jpg",
+      "rating": 4.7,
+      "info": "An iced latte is a fairly simple drink to make, similar to an iced coffee. To make iced lattes, you just need to blend a chilled espresso drink, the desired amount of sweetener, milk, and ice.\n\nOnce the ingredients are thoroughly mixed, you can pour the final product into a glass and add whipped cream if desired. You know it is just right because it will taste like a milder version of its hotter counterpart, the regular latte. It will still be very sweet, but it will not be as creamy as the hotter coffee type."
+    },
+    {
+      "name": "Mazagran",
+      "price": 300,
+      "category": ["Iced Coffee", "Lemon Coffee"],
+      "image": "mazagran.jpg",
+      "rating": 4.5,
+      "info": "Mazagrans is an interesting combination of coffee, ice. Lime juice, and water. It can be a strange experience the first time you try it. But it may quickly grow on you. Originally, the mazagran was mixed with some alcohol, such as brandy or rum. Many believe the mazagran is even the origin of iced coffee.\n\nNowadays, you can still get rum with it, but it is not as common a find nowadays. Today, you will find your mazagran is made with two. Hotshots of espresso poured over ice, with water added at the end to instantly cool it down."
+    },
+    {
+      "name": "Nitro Cold Brew",
+      "price": 350,
+      "category": ["Iced Coffee", "Coffee Shake"],
+      "image": "nitrocoldbrew.jpg",
+      "rating": 4.9,
+      "info": "The nitro cold brew is similar to the original cold brew coffee, except it is made with nitrogen. This gives the coffee more of a rich, creamy finish that is reminiscent of nitro draft beers like the Guinness. Because of this, you will be greeted with a thicker, frothy texture."
+    }
+  ],
+  "Available_Categorys": [
+    "Iced Coffee",
+    "Coffee Shake",
+    "Lemon Coffee",
+    "Hot Coffee",
+    "Hot Shake",
+    "Chocolate"
+  ],
+  "Available_Milks": [
+    "Ort Milk",
+    "Soy Milk",
+    "Almond Milk",
+    "Cow Milk",
+    "Buffalo Milk"
+  ]
+}
